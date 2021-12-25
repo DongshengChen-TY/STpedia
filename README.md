@@ -1,3 +1,12 @@
+### Species: Human
+
+- Tissue: Bladder, Stage: NA, Health Status: Normal and cancer, Refs: An N-Cadherin 2 expressing epithelial cell subpopulation prodicts response to surgery, chemotherapy and immunotherapy in bladder cancer, published date: August 2021
+- Tissue: Intervertebral disc, Stage: Adult, Health Status: Normal, Refs: Spatially definited single-cell transcriptional profiling characterizes diverse chondrocyte subtypes and nucleus pulposus progenitors in human intervertebral discs, published date: August 2021
+
+### Species: Human Embryo
+- Tissue: Fetal heart, Stage: 4.5–5, 6.5, and 9 post-conception weeks, Health Status: Normal, Refs: A Spatiotemporal Organ-Wide Gene Expression andceli Atlas of the Developing Human Heart, published date: December 2019
+
+
 |**Species**|**Tissue**|**Stage**|**Health  Status**|**Refs**|**Published date**|
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |**Human**|Bladder|NA|Normal and cancer|An N-Cadherin 2 expressing epithelial cell subpopulation prodicts response to surgery, chemotherapy and immunotherapy in bladder cancer|August 2021|
