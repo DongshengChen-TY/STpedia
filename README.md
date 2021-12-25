@@ -1,5 +1,5 @@
 # STpedia
-可以在这里写一点简介
+STpedia, collections of spatial transcriptomic (ST) knowledge and resources
 ## 1. Bioinformatics Tools of ST
 
 ### Spatial spots clustering
